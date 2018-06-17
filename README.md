@@ -48,7 +48,7 @@ for (let index = 0; index < nameArr.length; index++) {
 ```
 node build.js
 ```
-![](/Users/hankjohn/Desktop/nodetool/target.png
+![](https://github.com/SNJiang1992/nodetool/blob/master/target.png
 )
 大功告成！
 
